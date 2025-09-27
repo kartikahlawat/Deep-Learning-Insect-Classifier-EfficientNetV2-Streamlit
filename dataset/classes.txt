@@ -1,0 +1,5 @@
+1  rice leaf roller 			
+2  rice leaf caterpillar 		
+3  paddy stem maggot 			
+4  asiatic rice borer 			
+5  yellow rice borer
